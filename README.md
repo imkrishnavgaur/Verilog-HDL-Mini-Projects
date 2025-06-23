@@ -6,22 +6,22 @@ There are more than 70 files present. Given below are some that I were able to r
 - Synchronous FIFO
 - Data Transfer FSM
 - Stream Cypher with text file implementation
-Memory Design:
+- Memory Design:
   - Dual port asynchronous RAM
   - Sinle port syncronous RAM
   - Single port asynchronous RAM
   - ROM with hex file implementation
-Finite State Machines:
+- Finite State Machines:
   - Metro Turnstile
   - Traffic Light - Semaphore
   - Pattern Detector - overlapping and non overlapping
-Sequential Logic:
+- Sequential Logic:
   - pseudo random number generator 
   - linear feedback shift register
   - frequency divider 
   - counters
   - lathches 
-Combinational Logic:
+- Combinational Logic:
   - ALU
   - ALU testbench that uses the GOLDEN method
   - Adders
